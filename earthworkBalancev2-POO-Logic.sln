@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "earthworkBalancev2-POO", "earthworkBalancev2-POO\earthworkBalancev2-POO.csproj", "{8E3B16D0-7F72-4375-8B4F-2B07124D2EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E3B16D0-7F72-4375-8B4F-2B07124D2EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3B16D0-7F72-4375-8B4F-2B07124D2EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3B16D0-7F72-4375-8B4F-2B07124D2EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3B16D0-7F72-4375-8B4F-2B07124D2EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {503097C1-6DF8-4C72-BE3F-587340A9DFD0}
+	EndGlobalSection
+EndGlobal
