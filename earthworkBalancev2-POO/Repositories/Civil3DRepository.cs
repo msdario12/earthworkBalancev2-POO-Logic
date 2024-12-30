@@ -40,7 +40,7 @@ namespace earthworkBalancev2_POO.Repositories
                 _editor.WriteMessage($"\nFeature line {featureLineName} not found.");
                 return;
             }
-            // Send comand RAIRSELOWERFEATURELINE
+
             _editor.Command("RAISELOWERFEATURELINE", featureLine.ObjectId, elevation);
             // Check if the elevation changed
             FeatureLine updatedFeatureLine = UpdateFeatureLine(featureLineName);
